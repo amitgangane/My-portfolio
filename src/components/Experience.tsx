@@ -16,7 +16,7 @@ const Experience = () => {
       company: "CodeKul",
       location: "Pune, India",
       period: "Jul 2022 - Apr 2023",
-      description: "Developed and deployed RESTful APIs using Java (Spring Boot) integrated with SQL databases for dynamic data operations. Reduced client-side data processing time by 35% by optimizing backend queries and schema design. Contributed to Agile sprints and client feedback loops, maintaining a 95% on-time delivery rate across deliverables. Gained hands-on experience with Git-based version control, modular backend architecture, and unit testing with JUnit",
+      description: "Developed and deployed RESTful APIs using Java (Spring Boot) integrated with SQL databases for dynamic data operations. Reduced client-side data processing time by 35% by optimizing backend queries and schema design. Contributed to Agile sprints and client feedback loops, maintaining a 95% on-time delivery rate across deliverables. Gained hands-on experience with Git-based version control, modular backend architecture, and unit testing with JUnit.",
       technologies: ["Java", "Node.js", "JavaScript", "MySQL", "Spring Boot", "Git", "RESTful APIs", "HTML5", "CSS3", "Bootstrap"]
     },
     {
@@ -24,7 +24,7 @@ const Experience = () => {
       company: "InCredo",
       location: "Nagpur, India",
       period: "Jan 2022 - Jun 2022",
-      description: "Built and deployed 10+ interactive dashboards using Power BI and Tableau, visualizing KPIs across sales and operations. Designed efficient SQL logic to extract key KPIs from large datasets, improving reporting speed and insight delivery Automated recurring reporting workflows, reducing manual effort by 30% and improving reporting turnaround. Collaborated with cross-functional teams to translate analytical insights into strategic business action",
+      description: "Built and deployed 10+ interactive dashboards using Power BI and Tableau, visualizing KPIs across sales and operations. Designed efficient SQL logic to extract key KPIs from large datasets, improving reporting speed and insight delivery Automated recurring reporting workflows, reducing manual effort by 30% and improving reporting turnaround. Collaborated with cross-functional teams to translate analytical insights into strategic business action.",
       technologies: ["SQL", "Python", "Tableau", "Power BI", "Excel", "Decsioon Making", "Data Visualization", "Data Analysis"]
     },
 

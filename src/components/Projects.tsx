@@ -32,7 +32,7 @@ const Projects = () => {
     },
     {
       title: "IPL Data Analysis",
-      description: " Analyzed extensive IPL data with SQL, generating visualizations for strategic player & team performance insight. Revealed actionable game insights by dissecting key metrics and the critical impact of on-field decisions. Optimized large dataset processing and addressed data inconsistencies to ensure the accuracy of analytical findings",
+      description: " Analyzed extensive IPL data with SQL, generating visualizations for strategic player & team performance insight. Revealed actionable game insights by dissecting key metrics and the critical impact of on-field decisions. Optimized large dataset processing and addressed data inconsistencies to ensure the accuracy of analytical findings.",
       image: "/IPL.png",
       technologies: ["SQL", "Tableau", "Data Analysis", "Decision Making", "MySQL"],
       liveUrl: "#",
