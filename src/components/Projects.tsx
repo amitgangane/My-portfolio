@@ -42,7 +42,7 @@ const Projects = () => {
 
     {
       title: "Wrap Around Scrape",
-      description: "Collected & cleaned restaurant data from multiple sources using Py. & BeautifulSoup for better recommendations Proposed a hybrid recommendation model using content & collaborative filtering for personalized dining options..",
+      description: "Collected & cleaned restaurant data from multiple sources using Py. & BeautifulSoup for better recommendations Proposed a hybrid recommendation model using content & collaborative filtering for personalized dining options.",
       image: "/Wrap.png", 
       technologies: ["Python", "BeautifulSoup", "REST API", "Geolocation API"],
       liveUrl: "#",
