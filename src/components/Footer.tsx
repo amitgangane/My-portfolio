@@ -68,15 +68,6 @@ const Footer = () => {
           </p>
         </div>
       </div>
-
-      {/* Scroll to Top Button */}
-      <button
-        onClick={scrollToTop}
-        className="fixed bottom-8 right-8 bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full shadow-lg hover:shadow-xl transform hover:scale-110 transition-all duration-200 z-50"
-        aria-label="Scroll to top"
-      >
-        <ArrowUp size={20} />
-      </button>
     </footer>
   );
 };

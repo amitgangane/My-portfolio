@@ -8,6 +8,8 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import ChatbotWidget from './components/ChatbotWidget';
+import ScrollToTopButton from './components/ScrollToTopButton';
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -32,6 +34,8 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <ChatbotWidget />
+      <ScrollToTopButton />
     </div>
   );
 }
