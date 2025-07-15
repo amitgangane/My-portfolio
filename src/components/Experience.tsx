@@ -25,7 +25,7 @@ const Experience = () => {
       location: "Nagpur, India",
       period: "Jan 2022 - Jun 2022",
       description: "Built and deployed 10+ interactive dashboards using Power BI and Tableau, visualizing KPIs across sales and operations. Designed efficient SQL logic to extract key KPIs from large datasets, improving reporting speed and insight delivery Automated recurring reporting workflows, reducing manual effort by 30% and improving reporting turnaround. Collaborated with cross-functional teams to translate analytical insights into strategic business action.",
-      technologies: ["SQL", "Python", "Tableau", "Power BI", "Excel", "Decsioon Making", "Data Visualization", "Data Analysis"]
+      technologies: ["SQL", "Python", "Tableau", "Power BI", "Excel", "Decsioon Making", "Data Visualization", "Data Analysis","Data Warehousing"]
     },
 
   ];
